@@ -1,1 +1,7 @@
-/lab_01.py
+/Lab_01/punkt
+/Lab_01/app-*
+/Lab_01/klasy-*
+/Lab_01/w4.*
+*.pdf
+*.zip
+.vscode
