@@ -5,3 +5,4 @@
 *.pdf
 *.zip
 .vscode
+__pycache__
