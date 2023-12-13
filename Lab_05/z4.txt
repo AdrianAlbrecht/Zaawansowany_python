@@ -1,0 +1,1 @@
+Za pomocą range na pewno działa szybciej dlatego że range jest iteratorem, a lista jest strukturą, która posiada iterator. Powinna również więcej miejsca zajmowac operacyjnego.
